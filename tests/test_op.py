@@ -1,4 +1,4 @@
-from src.math_ops import add,sub 
+from src.math_op import add,sub 
 
 def add_test():
     assert add(3, 5) == 8
